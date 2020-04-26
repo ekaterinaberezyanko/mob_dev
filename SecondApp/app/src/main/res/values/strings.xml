@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Second App</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="enter">Enter</string>
+    <string name="enter_your_question">Enter your question</string>
+    <string name="error">Error</string>
+    <string name="textview">TextView</string>
+    <string name="textview1">textview1</string>
+</resources>
